@@ -1,13 +1,16 @@
+/* IDs */ 
+
 #text {
 	word-spacing: 10pt;  /* space between words in a text */  
-}    
+}
 
+/* BODY */ 
 
 body {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Helvetica', 'Montserrat', 'Open Sans', sans-serif;
 	padding-left: 5em;
 	padding-right: 5em;
-	padding-top: 2em;
+	padding-top: 3em;
 	color: white;
 	background-color: #2f3744;
 }
@@ -53,8 +56,9 @@ li {
 	padding: 0.3em; 
 }
 
+/* FOOTER */ 
+
 footer {
 	border-top: thin dotted;
-	font-size: 16px;
 }
 
