@@ -185,9 +185,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4063244"
-     inkscape:cx="-34.761562"
-     inkscape:cy="565.17947"
+     inkscape:zoom="0.57462948"
+     inkscape:cx="283.1964"
+     inkscape:cy="484.12019"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -219,7 +219,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:date>2020</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -247,8 +247,10 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="rect1206-7-3"
-       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.32292;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 1010.7084,680.00138 a 15.875,15.875 0 0 0 -15.87502,15.875 15.875,15.875 0 0 0 15.87502,15.875 15.875,15.875 0 0 0 15.8751,-15.875 15.875,15.875 0 0 0 -15.8751,-15.875 z m -21.16672,36.99723 v 0.16123 c -10.581,1.35919 -10.5832,11.18147 -10.5833,21.00543 -1e-4,10.58333 0,37.04167 0,37.04167 h 10.5833 v 21.16667 58.20833 h 15.87502 v -58.20833 h 10.5834 v 58.20833 h 15.8751 v -58.20833 -21.16667 h 10.5833 v -37.04167 c 0,-9.82395 10e-5,-19.64624 -10.5833,-21.00543 v -0.16123 h -2.6459 -37.04172 z" />
+       sodipodi:nodetypes="cscscccsccccccccccccsccccc"
+       transform="matrix(0.26458333,0,0,0.26458333,910.16669,666.75)"
+       d="m 380,50.083984 c -33.13701,-3.7e-5 -60,26.862884 -60,59.999996 0,33.13713 26.86299,60.00004 60,60 33.13739,2.3e-4 60,-26.86276 60,-60 0,-33.137225 -26.86261,-60.000222 -60,-59.999996 z M 300,189.91602 v 0.60937 c -39.99118,5.1371 -39.99962,42.2607 -40,79.39063 -3.8e-4,39.99998 0,140 0,140 h 40 l -2.4e-4,0.084 L 300,709.91602 h 60 v -220 h 40 v 220 h 60 V 410 409.916 h 40 v -140 c 0,-37.12989 2.5e-4,-74.25353 -40,-79.39063 V 189.916 H 450 310 Z"
+       style="opacity:1;fill:#000000;stroke:none;stroke-width:5.00001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1206-7-3" />
   </g>
 </svg>
