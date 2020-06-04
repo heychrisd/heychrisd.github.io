@@ -1,16 +1,31 @@
 /* IDs */ 
 
-#text {
-	word-spacing: 10pt;  /* space between words in a text */  
+#man {
+	padding-left: 3em;
+	padding-right: 5em;
+	padding-top: 3em;
 }
+
+#margins {
+	padding-left: 5em;
+	padding-right: 5em;
+	padding-top: 3em;
+}
+
+#footicons {
+	word-spacing: 15pt;  /* space between words in a text */
+	font-size: 20px; 
+}
+
+#copyright {
+	font-size: 16px; 
+}
+
 
 /* BODY */ 
 
 body {
-	font-family: 'Helvetica', 'Montserrat', 'Open Sans', sans-serif;
-	padding-left: 5em;
-	padding-right: 5em;
-	padding-top: 3em;
+	font-family: 'Open Sans', 'Montserrat', 'Helvetica', sans-serif;
 	color: black;
 	background-color: white;
 }
@@ -39,8 +54,6 @@ a:hover {
 	background-color: black;
 	padding-top: 0.3em;
 	padding-bottom: 0.3em;
-	padding-left: 0.1em;
-	padding-right: 0.1em;
 	font-weight: 700;
 	color: white;
 }
@@ -60,5 +73,6 @@ li {
 
 footer {
 	border-top: thin dotted;
+	padding-top: 1em;
 }
 
